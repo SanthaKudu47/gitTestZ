@@ -1,3 +1,4 @@
 intial
 
-feature 1 is done
+feature 1 is done.
+feature 2 is started.
